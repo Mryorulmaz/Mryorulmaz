@@ -8,7 +8,6 @@
 
 - 📱 Developed and published mobile applications using **Flutter** and **Firebase**.
 - ⚡ Focused on performance, scalability, and seamless user experience.
-- 💰 Experienced in monetization: **In-App Purchases (IAP)** & **AdMob** integration.
 
 ---
 
