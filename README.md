@@ -1,4 +1,4 @@
-# Hi, I'm Kerim! 👋
+# Hi, I'm Kerim! 👋 
 
 🚀 **Computer Engineering Student** at **Istanbul Gelişim University**, focused on building and publishing real-world applications on the App Store.
 
