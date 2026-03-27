@@ -1,26 +1,55 @@
-# Hi there, I'm Kerim! 👋
+# Hi, I'm Kerim! 👋
 
-I am a **Computer Engineering** student at **Istanbul Gelişim University** and a dedicated **Mobile Application Developer** specializing in cross-platform development with **Flutter**.
-
----
-
-### 🚀 What I'm working on
-- 📱 **GarageLoop:** A community-driven marketplace application successfully published and maintained on the App Store.
-- 🏝️ **YDS Adası:** A comprehensive language learning platform designed for academic exam preparation (5000+ words).
-- 🎓 Focused on **Mobile UI/UX Design**, **In-App Purchase (IAP)** integration, and **AdMob** monetization strategies.
-
-### 🛠 Tech Stack
-- **Framework:** Flutter
-- **Language:** Dart
-- **Backend & Tools:** Firebase, Git, App Store Connect, Google Play Console
-- **Design:** Figma, AI-assisted Asset Generation
-
-### 📊 My Apps on App Store
-| Project | Status | Link |
-| :--- | :--- | :--- |
-| **GarageLoop** | Live | [View on App Store](https://apps.apple.com/us/app/garageloop/id6737526759) |
-| **YDS Adası** | Live | [View on App Store](https://apps.apple.com/us/app/yds-adasi-5000-kelime/id6760214283) |
+🚀 **Computer Engineering Student** at **Istanbul Gelişim University**, focused on building and publishing real-world applications on the App Store.
 
 ---
 
-📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/kerimyorulmaz/) 
+## 🚀 About Me
+
+- 📱 Developed and published mobile applications using **Flutter** and **Firebase**.
+- ⚡ Focused on performance, scalability, and seamless user experience.
+- 💰 Experienced in monetization: **In-App Purchases (IAP)** & **AdMob** integration.
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **Backend:** Firebase (Firestore, Authentication, Analytics)  
+- **Tools:** Git, GitHub, App Store Connect, Xcode, Google Play Console  
+- **Focus:** UI/UX Design, Mobile Architecture, API Integration  
+
+---
+
+## 📱 My Apps on App Store
+
+| App | Description | Link |
+|:--- |:----------- |:---- |
+| **GarageLoop** | Community-driven marketplace mobile application. | [View on App Store](https://apps.apple.com/us/app/garageloop/id6737526759) |
+| **YDS Adası** | Language learning & academic exam preparation app. | [View on App Store](https://apps.apple.com/us/app/yds-adasi-5000-kelime/id6760214283) |
+
+---
+
+## 🔧 Featured Work
+
+### 📌 GarageLoop
+- Marketplace app with real-time data synchronization.
+- Firebase Authentication & Firestore integration.
+- Scalable architecture for user-generated content.
+
+### 📌 YDS Adası
+- Vocabulary learning & exam preparation app with 5000+ words.
+- Dynamic quiz systems and user-focused UI.
+- Integrated In-App Purchases & AdMob monetization.
+
+---
+
+## 📫 Contact
+
+- 💼 **LinkedIn:** [linkedin.com/in/kerimyorulmaz](https://www.linkedin.com/in/kerimyorulmaz/)  
+- 📧 **Email:** yorulmaz46kerim@icloud.com  
+
+---
+
+💡 *Always building, always improving.*
