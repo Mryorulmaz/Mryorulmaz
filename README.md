@@ -24,4 +24,3 @@ I am a **Computer Engineering** student at **Istanbul Gelişim University** and 
 ---
 
 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/kerimyorulmaz/) 
-🌍 **Target:** Seeking Engineering Internships in Europe for Summer 2026.
